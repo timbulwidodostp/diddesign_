@@ -1,10 +1,30 @@
-D 'gumbelfit': Fitting a Gumbel distribution by maximum likelihood Use gumbelfit With STATA 19
+D 'gumbelfit': Double Difference-in-Differences Estimation Use diddesign With STATA 19
 D
-F gumbelfit.ado
-F gumbelfit.sthlp
-F gumbelfit_lf.ado
-F gevfit_lf2.ado
-F pgumbel.ado
-F pgumbel.hlp
-F qgumbel.ado
-F qgumbel.hlp
+F _diddesign_display_footer.ado
+F _diddesign_display_header.ado
+F _diddesign_display_result.ado
+F _diddesign_display_table_header.ado
+F _diddesign_error.ado
+F _diddesign_expand_covariates.ado
+F _diddesign_load_mata.ado
+F _diddesign_parallel_boot.ado
+F _diddesign_parallel_worker.ado
+F _diddesign_parse.ado
+F _diddesign_prep.ado
+F _diddesign_sa.ado
+F _diddesign_utils.ado
+F _diddesign_warning.ado
+F did_bootstrap.mata
+F did_check.mata
+F did_estimators.mata
+F did_gmm.mata
+F did_sa.mata
+F did_utils.mata
+F diddesign.ado
+F diddesign.sthlp
+F diddesign_check.ado
+F diddesign_check.sthlp
+F diddesign_intro.sthlp
+F diddesign_mata.do
+F diddesign_plot.ado
+F diddesign_plot.sthlp
