@@ -2,4 +2,4 @@
 1
 2
 3
-p gumbelfit Fitting a Gumbel distribution by maximum likelihood Use gumbelfit With STATA 19
+p diddesign Double Difference-in-Differences Estimation Use diddesign With STATA 19
