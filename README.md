@@ -1,6 +1,8 @@
 # diddesign_
 Double Difference-in-Differences Estimation Use diddesign With STATA 19
 
+https://www.youtube.com/watch?v=anLOkZq8x_c
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
